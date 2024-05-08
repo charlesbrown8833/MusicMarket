@@ -4,7 +4,6 @@
  * a toString description of the Product object. This is the dialog fragment that allows the user to
  * a new listing to the recycler view for display.
  *
- * Class: CITC 2376, Spring 2024
  *
  * @author  Charles Brown
  * @version May 3, 2024
