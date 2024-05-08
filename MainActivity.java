@@ -4,7 +4,6 @@
  * a toString description of the Product object. This is the MainActivity that creates main page
  * of application and shows recycler view.
  *
- * Class: CITC 2376, Spring 2024
  *
  * @author  Charles Brown
  * @version May 3, 2024
