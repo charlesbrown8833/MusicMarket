@@ -4,7 +4,6 @@
  * a toString description of the Product object. This is the splash that displays when application
  * is loading to the MainActivity. Also displays animated imageView while loading.
  *
- * Class: CITC 2376, Spring 2024
  *
  * @author  Charles Brown
  * @version May 3, 2024
