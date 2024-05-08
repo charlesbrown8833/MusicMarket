@@ -4,7 +4,6 @@
  * a toString description of the Product object. This is the Product class that allows user to create
  * object to be listed.
  *
- * Class: CITC 2376, Spring 2024
  *
  * @author  Charles Brown
  * @version May 3, 2024
