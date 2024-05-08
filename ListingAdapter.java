@@ -4,7 +4,6 @@
  * a toString description of the Product object. This is the adapter that gets everything from storage
  * and binds it to each card view within the recycler view.
  *
- * Class: CITC 2376, Spring 2024
  *
  * @author  Charles Brown
  * @version May 3, 2024
